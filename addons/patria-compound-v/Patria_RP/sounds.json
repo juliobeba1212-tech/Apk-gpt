@@ -1,0 +1,46 @@
+{
+  "patria.inject": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sounds/powers/inject",
+        "stream": false,
+        "volume": 1.0,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "patria.laser": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/powers/laser",
+        "stream": false,
+        "volume": 1.5,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "patria.scream": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/powers/scream",
+        "stream": false,
+        "volume": 2.0,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "patria.transform": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/powers/transform",
+        "stream": false,
+        "volume": 1.6,
+        "load_on_low_memory": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Pátria: Compound V (BP)",
+    "description": "Torne-se o Capitão Pátria! Receba a vacina Compound V, injete e desperte: superforça, voo, visão a laser e o grito sônico. Packs de comportamento — requer o pack de recursos.",
+    "uuid": "1a6cebb0-1d72-4ecd-8b0b-f49b21b98c45",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0],
+    "authors": ["Vought International (fã-mod)"],
+    "url": "https://github.com/juliobeba1212-tech/Apk-gpt"
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "8036831f-0651-4ead-b90c-c58a98dc3000",
+      "version": [1, 0, 0]
+    },
+    {
+      "type": "script",
+      "uuid": "e1b000b7-eb1a-466d-b92c-06dd5e91b04a",
+      "version": [1, 0, 0],
+      "entry": "scripts/main.js",
+      "language": "javascript"
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "894f5962-137e-4923-ac39-c08b4116e55e",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "authors": ["Vought International (fã-mod)"],
+    "license": "MIT — fã-mod não oficial, sem fins lucrativos",
+    "generated_with": {
+      "description": "Pátria: Compound V .mcaddon para Minecraft Bedrock 26.51+"
+    }
+  }
+}

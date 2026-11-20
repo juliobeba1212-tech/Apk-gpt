@@ -1,0 +1,23 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "patria:compound_v",
+      "unlock": ["minecraft:golden_apple"]
+    },
+    "pattern": [
+      "GRG",
+      "RAR",
+      "GRG"
+    ],
+    "key": {
+      "G": { "item": "minecraft:gold_ingot" },
+      "R": { "item": "minecraft:redstone" },
+      "A": { "item": "minecraft:golden_apple" }
+    },
+    "result": {
+      "item": "patria:compound_v",
+      "count": 1
+    }
+  }
+}

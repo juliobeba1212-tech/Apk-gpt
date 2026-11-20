@@ -1,0 +1,23 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "patria:compound_v_emblem",
+      "is_hidden_in_commands": false,
+      "menu_category": {
+        "category": "equipment"
+      }
+    },
+    "components": {
+      "minecraft:icon": { "texture": "compound_v_emblem" },
+      "minecraft:display_name": { "value": "§6§lEmblema Compound V" },
+      "minecraft:max_stack_size": 1,
+      "minecraft:hand_equipped": true,
+      "minecraft:glint": true,
+      "minecraft:use_modifiers": {
+        "use_duration": 0.2,
+        "movement_modifier": 1.0
+      }
+    }
+  }
+}

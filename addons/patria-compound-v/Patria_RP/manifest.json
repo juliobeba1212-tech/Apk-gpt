@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Pátria: Compound V (RP)",
+    "description": "Texturas, sons e itens do Capitão Pátria: seringa de Compound V, Emblema Compound V, efeitos de laser, grito sônico e sons exclusivos. Requer o pack de comportamento.",
+    "uuid": "894f5962-137e-4923-ac39-c08b4116e55e",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0],
+    "authors": ["Vought International (fã-mod)"],
+    "url": "https://github.com/juliobeba1212-tech/Apk-gpt"
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "bd80f867-5459-4e73-95d6-d8dfda47f731",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "1a6cebb0-1d72-4ecd-8b0b-f49b21b98c45",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "authors": ["Vought International (fã-mod)"],
+    "license": "MIT — fã-mod não oficial, sem fins lucrativos"
+  }
+}

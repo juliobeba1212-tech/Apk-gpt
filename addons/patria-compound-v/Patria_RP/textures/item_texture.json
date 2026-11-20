@@ -1,0 +1,12 @@
+{
+  "resource_pack_name": "Patria_RP",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "compound_v": {
+      "textures": "textures/items/compound_v"
+    },
+    "compound_v_emblem": {
+      "textures": "textures/items/compound_v_emblem"
+    }
+  }
+}
