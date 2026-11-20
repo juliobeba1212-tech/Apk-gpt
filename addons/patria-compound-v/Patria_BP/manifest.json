@@ -5,9 +5,7 @@
     "description": "Torne-se o Capitão Pátria! Receba a vacina Compound V, injete e desperte: superforça, voo, visão a laser e o grito sônico. Packs de comportamento — requer o pack de recursos.",
     "uuid": "1a6cebb0-1d72-4ecd-8b0b-f49b21b98c45",
     "version": [1, 0, 0],
-    "min_engine_version": [1, 21, 0],
-    "authors": ["Vought International (fã-mod)"],
-    "url": "https://github.com/juliobeba1212-tech/Apk-gpt"
+    "min_engine_version": [1, 21, 0]
   },
   "modules": [
     {
@@ -35,9 +33,10 @@
   ],
   "metadata": {
     "authors": ["Vought International (fã-mod)"],
-    "license": "MIT — fã-mod não oficial, sem fins lucrativos",
+    "license": "MIT - fã-mod não oficial, sem fins lucrativos",
+    "url": "https://github.com/juliobeba1212-tech/Apk-gpt",
     "generated_with": {
-      "description": "Pátria: Compound V .mcaddon para Minecraft Bedrock 26.51+"
+      "patria_modkit": ["1.0.0"]
     }
   }
 }
